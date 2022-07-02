@@ -54,7 +54,7 @@
   </ModalPopup>
 
   <!-- Toast message -->
-  <teleport to="#modal">
+  <teleport to="#app">
     <transition name="slide-fade">
       <div v-if="showToast" class="snackbar" :class="snack.mode">
         <i class="bi bi-exclamation-circle"></i>

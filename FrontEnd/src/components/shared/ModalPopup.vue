@@ -1,5 +1,5 @@
 <template>
-  <div id="modal" class="shared-modal-wrapper">
+  <div class="shared-modal-wrapper">
     <div class="shared-modal">
       <button
         class="modal-close-button icon-x-close"
