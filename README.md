@@ -33,3 +33,5 @@ Follow these steps to get your development environment set up:
 - [x] Responsive with mobile/laptop view
 - [x] Customize confirmation box UI when the user delete a task
 - [ ] Pagination with 50 records by using infinite scroll
+- [ ] Display loading icon when requesting APIs
+
