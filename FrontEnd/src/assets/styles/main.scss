@@ -1,0 +1,13 @@
+.wrapper {
+  box-sizing: border-box;
+  margin: 0 auto;
+  max-width: 2048px;
+  min-width: 1200px;
+  padding: 89px 88px 1px 88px;
+}
+
+input:focus,
+textarea:focus {
+  outline-style: solid;
+  outline-color: #00B2D5;
+}
