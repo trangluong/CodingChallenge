@@ -30,7 +30,7 @@ Follow these steps to get your development environment set up:
 - [x] Move *Create a new task* from bottom to top to help the user see the button at first glance, what if the users has 1000 task records, the user has to scroll down to the bottom of the page to see it.
 - [x] Truncate details if the details have more than 150 characters to avoid horizontal scroll, the user can hover on details to display tooltip with full details
 - [x] Display Edit/Delete icons to help user aware these actions
-- [x] Responsive with mobile/laptop view
+- [ ] Responsive with mobile/laptop view
 - [x] Customize confirmation box UI when the user delete a task
 - [ ] Pagination with 50 records by using infinite scroll
 - [ ] Display loading icon when requesting APIs
